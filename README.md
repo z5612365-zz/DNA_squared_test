@@ -28,4 +28,11 @@ Oi,j表示現在要看的是哪一個元素
 本例的x^2統計值是：
 > ![enter image description here](https://upload.wikimedia.org/math/6/7/0/670ad4664d94fb7111f3031b44d06754.png)
 
+##貝氏網路Bayesian networks##
+
+
+
+
+
+
 ##應用於專題:##
